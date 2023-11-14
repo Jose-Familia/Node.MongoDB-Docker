@@ -18,7 +18,7 @@ docker ps
 
 docker-compose up
 
-## Conectarse al contenedor 
+## Conectarse al contenedor
 
 docker exec -it <container_name> bash
 

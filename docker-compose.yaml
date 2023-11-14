@@ -3,7 +3,7 @@ version: "3"
 services:
   web:
    container_name: nodeapp
-   restart: allways
+   restart: always
    build: .
    ports:
      - "1818:3000"
